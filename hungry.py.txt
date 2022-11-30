@@ -1,0 +1,2 @@
+hungry=input("are you hungry")
+if hungry=="yes" and hungry=="Y"and hungry=="y"
